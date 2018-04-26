@@ -2,7 +2,7 @@
 
 ## Você deverá realizar três atividades:
 ### Primeira atividade: análise
-> 1. Acesse o site submarino.com.br
+> 1. Baixe o app das Americanas.com
 > 2. Navegue como se fosse (caso não seja) seu primeiro acesso. Tente se imaginar em uma situação real de uso.
 > 3. Depois faça uma análise relatando sua experiência na realização de tarefas. Liste os pontos positivos e negativos do que explorou e descobriu, justificando cada aspecto. Você também pode usar exemplos de outros sites, se quiser.
 > 4. Faça ao menos uma sugestão de melhoria para algum ponto, com base na sua análise.
